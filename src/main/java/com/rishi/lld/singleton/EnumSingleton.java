@@ -1,4 +1,4 @@
-package com.rishi.singleton;
+package com.rishi.lld.singleton;
 
 public enum EnumSingleton {
     INSTANCE;

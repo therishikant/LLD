@@ -1,4 +1,4 @@
-package com.rishi.singleton;
+package com.rishi.lld.singleton;
 
 public class ThreadSafeSingleton {
     private static ThreadSafeSingleton instance;
